@@ -18,7 +18,7 @@
         <java.version>21</java.version>
         <spring-modulith.version>1.2.2</spring-modulith.version>
         <aws.sdk.version>2.26.27</aws.sdk.version>
-        <testcontainers.version>1.20.0</testcontainers.version>
+        <testcontainers.version>1.20.1</testcontainers.version>
         <datafaker.version>2.3.1</datafaker.version>
     </properties>
     <dependencies>
